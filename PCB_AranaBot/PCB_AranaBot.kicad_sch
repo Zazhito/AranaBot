@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ab14c721-0523-45ec-9912-f84b74b72c79")
+	(paper "A4")
+	(title_block
+		(title "AranaBot")
+		(date "2025-02-04")
+		(rev "1")
+		(company "AC")
+		(comment 1 "Davidson C. Acuña Romero")
+		(comment 2 "dacunar.tech@gmail.com")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
