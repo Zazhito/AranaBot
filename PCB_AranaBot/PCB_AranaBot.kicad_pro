@@ -386,6 +386,38 @@
     [
       "ab14c721-0523-45ec-9912-f84b74b72c79",
       "Raíz"
+    ],
+    [
+      "fbdcb83c-ff42-4ec0-bacc-799be80769f9",
+      "Overview"
+    ],
+    [
+      "f98c9859-7cb0-4eb6-a1d1-0b0b4bb013f9",
+      "MCU"
+    ],
+    [
+      "89b3f8ce-5914-409b-be7e-8008a6691c80",
+      "Block Diagram"
+    ],
+    [
+      "069bbe26-56a9-4fe8-ba5b-2d9002e875d6",
+      "Mosfet Drivers"
+    ],
+    [
+      "d3c191c6-e739-4c5a-9cd0-149e342b6c91",
+      "Mosfets"
+    ],
+    [
+      "f7a9def5-e315-4624-a591-2f41534e1742",
+      "CAN"
+    ],
+    [
+      "d5f5dab2-4fef-4a10-89d8-c4b3c9090475",
+      "Filters"
+    ],
+    [
+      "586cb06b-6da2-4d07-9814-79a481e016db",
+      "Mechanical"
     ]
   ],
   "text_variables": {}
