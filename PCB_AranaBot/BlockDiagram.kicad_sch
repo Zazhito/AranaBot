@@ -415,11 +415,11 @@
 	)
 	(text "Diagrama de Bloques"
 		(exclude_from_sim no)
-		(at 57.15 20.32 0)
+		(at 63.5 20.32 0)
 		(effects
 			(font
-				(size 5 5)
-				(thickness 1)
+				(size 6 6)
+				(thickness 1.2)
 				(bold yes)
 			)
 		)
