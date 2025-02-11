@@ -389,7 +389,7 @@
     ],
     [
       "fbdcb83c-ff42-4ec0-bacc-799be80769f9",
-      "Overview"
+      "InputProtection"
     ],
     [
       "f98c9859-7cb0-4eb6-a1d1-0b0b4bb013f9",
@@ -418,6 +418,14 @@
     [
       "586cb06b-6da2-4d07-9814-79a481e016db",
       "Mechanical"
+    ],
+    [
+      "34ad3ba4-a957-4f7d-b246-7cf0bbec80c9",
+      "USB"
+    ],
+    [
+      "3477800c-92c5-4ceb-83f3-840afbdbe56b",
+      "StepDown"
     ]
   ],
   "text_variables": {}

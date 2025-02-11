@@ -64,6 +64,82 @@
 		)
 	)
 	(sheet
+		(at 204.47 73.66)
+		(size 25.4 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3477800c-92c5-4ceb-83f3-840afbdbe56b")
+		(property "Sheetname" "StepDown"
+			(at 204.47 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "StepDown.kicad_sch"
+			(at 204.47 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_AranaBot"
+				(path "/ab14c721-0523-45ec-9912-f84b74b72c79"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 73.66)
+		(size 25.4 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34ad3ba4-a957-4f7d-b246-7cf0bbec80c9")
+		(property "Sheetname" "USB"
+			(at 175.26 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 175.26 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_AranaBot"
+				(path "/ab14c721-0523-45ec-9912-f84b74b72c79"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 19.05 105.41)
 		(size 25.4 21.59)
 		(fields_autoplaced yes)
@@ -303,7 +379,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "fbdcb83c-ff42-4ec0-bacc-799be80769f9")
-		(property "Sheetname" "Overview"
+		(property "Sheetname" "InputProtection"
 			(at 19.05 41.1984 0)
 			(effects
 				(font
@@ -312,7 +388,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Overview.kicad_sch"
+		(property "Sheetfile" "InputProtection.kicad_sch"
 			(at 19.05 64.0846 0)
 			(effects
 				(font
